@@ -1,4 +1,4 @@
-# -DATA72000-stock-forecasting
+
 # DATA72000 Extended Research Project
 ## A Machine Learning Approach to Forecasting Stock Prices
 
