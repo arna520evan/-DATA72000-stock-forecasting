@@ -39,7 +39,6 @@ The analysis was conducted in Python using packages including:
 - scikit-learn
 - statsmodels
 - tensorflow / keras
-- xgboost
 - arch
 - scipy
 - matplotlib
